@@ -23,3 +23,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ttquynh-pham&show_icons=true&theme=monokai" width="400" height="180"/>
 </a>
+
+[![Quynh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ttquynh-pham&theme=react-dark)](https://github.com/ttquynh-pham/github-readme-activity-graph)
