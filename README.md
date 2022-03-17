@@ -27,5 +27,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ttquynh-pham&show_icons=true&theme=monokai" width="400" height="180"/>
 </a>
 
-[![Quynh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ttquynh-pham&theme=react-dark)](https://github.com/ttquynh-pham/github-readme-activity-graph)
+**Contributions:**
+<h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="00em" src="/profile-3d-contrib/profile-night-green.svg">
+	</a>
+</p>
 
