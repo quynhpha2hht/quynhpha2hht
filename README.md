@@ -22,9 +22,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/main/PNG/PowerBI.png"></code>  
 
 **GitHub Stats:**
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ttquynh-pham&show_icons=true&theme=monokai" width="400" height="180"/>
-</a>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ttquynh-pham&theme=radical)](https://git.io/streak-stats)
 
 
