@@ -22,6 +22,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/main/PNG/PowerBI.png"></code>  
 
 **GitHub Stats:**
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ttquynh-pham&theme=radical)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ttquynh-pham&theme=radical)](https://git.io/streak-stats)
 
 
