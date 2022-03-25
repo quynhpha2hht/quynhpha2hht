@@ -25,4 +25,3 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ttquynh-pham&theme=radical)](https://git.io/streak-stats)
 
-[![ttquynh-pham's github activity graph](https://activity-graph.herokuapp.com/graph?username=ttquynh-pham&theme=react-dark)](https://github.com/ttquynh-pham/github-readme-activity-graph)
