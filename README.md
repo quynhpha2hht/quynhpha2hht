@@ -1,7 +1,6 @@
 
 ### Hej, I'm Quynh Pham 👋
 
-**⚡My facts:** 
   * Before switching to Data field, I'm a Quality Assurance in software companies.
   * I've been to Riga, Latvia to study a second bachelor’s degree in Optometry field.
   * Currently I'm on a self-study path to becoming an Analyst. 
