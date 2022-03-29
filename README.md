@@ -1,10 +1,8 @@
 
 ### Hej, I'm Quynh Pham 👋
 
-  * Before switching to Data field, I'm a Quality Assurance in software companies.
-  * I've been to Riga, Latvia to study a second bachelor’s degree in Optometry field.
-  * Currently I'm on a self-study path to becoming an Analyst. 
-  * Spend hours to learn about <code>Python for analytics</code>, <code>PostgreSQL</code>, <code>PowerBI</code>, <code>Statistics</code> and enhance my problem-solving skills in <code>Descriptive Analytics</code>.
+  * Before moving to the Data domain, I was a Quality Assurance in software companies and pursued a second BA in Optometry at the University of Latvia.
+  * Currently I'm on a self-study path to becoming an Analyst. I spend hours to learn about <code>Python for analytics</code>, <code>PostgreSQL</code>, <code>PowerBI</code>, <code>Statistics</code> and enhance my problem-solving skills in <code>Descriptive Analytics</code>.
   * I'm also a learner in Kaggle, Leetcode, Hackerrank. My account: [![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/quynhpt2) [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ttquynh-pham/) [![leetcode](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/qpham1291) 
 
 
