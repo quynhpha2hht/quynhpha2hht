@@ -20,11 +20,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/main/PNG/PowerBI.png"></code>  
 
 [![Quynh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ttquynh-pham&theme=github-light)](https://github.com/ttquynh-pham/github-readme-activity-graph)
-
-<!-- Snake contributions graph https://github.com/Platane/snk -->
-<div align="center">
-  <a href="https://github.com/ttquynh-pham#user-activity-overview">
-    <img src="https://github.com/lkotlarenko/lkotlarenko/blob/output/github-contribution-grid-snake.svg" alt="Snake contributions animation"/>
-  </a>
-  <br>
-</div>
