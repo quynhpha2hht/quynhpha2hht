@@ -1,3 +1,3 @@
 
-### Terve, Sinä olen Quynh Pham 👋
+### Terve, Minä olen Quynh Pham 👋
   * Learner in Kaggle, Leetcode, Hackerrank. My account: [![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/quynhpt2) [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ttquynh-pham/) [![leetcode](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/qpham1291) [![sql-ex.ru](http://www.sql-ex.ru/images/rate_btn/image.php?id=686859&ban=1)](http://www.sql-ex.ru/users_page.php?uid=686859) 
