@@ -14,4 +14,4 @@
 [![My Skills](https://skills.thijs.gg/icons?i=vscode&theme=light)](https://skills.thijs.gg)
 
 
-![Quynh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttquynh-pham&theme=highcontrast&show_icons=true)
+![Quynh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttquynh-pham&theme=vue&show_icons=true)
