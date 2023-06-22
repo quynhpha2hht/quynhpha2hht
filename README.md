@@ -13,5 +13,4 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=vscode&theme=light)](https://skills.thijs.gg)
 
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ttqp2812fi&theme=blue-green)](https://git.io/streak-stats)
