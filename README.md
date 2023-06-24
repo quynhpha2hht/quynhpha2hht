@@ -1,5 +1,6 @@
 
 ### Terve, Minä olen Quynh Pham 👋
+![](https://komarev.com/ghpvc/?username=ttqp2812fi&color=brightgreen)
 
 - Coding: 
 
