@@ -14,3 +14,5 @@
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ttqp2812fi&layout=compact)](https://github.com/ttqp2812fi/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=ttqp2812fi&color=brightgreen)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ttqp2812fi&theme=monokai)](https://github.com/ttqp2812fi/github-profile-trophy)
