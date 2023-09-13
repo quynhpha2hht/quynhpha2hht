@@ -8,5 +8,4 @@
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ttqp2812fi&layout=compact)](https://github.com/ttqp2812fi/github-readme-stats)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
