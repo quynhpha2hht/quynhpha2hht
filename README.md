@@ -5,7 +5,6 @@
 - Came back to Vietnam during Covid time, I studied data in Coursera and became a Data Analyst in Marketing 
 - Tested data regularly and investigate the cause of abnormal data
 - Decided to study about Automation Testing
-- Found that my career path need to be related to Testing
   
 ![](https://komarev.com/ghpvc/?username=ttqp2812fi&color=brightgreen)
 #### - Skills: 
