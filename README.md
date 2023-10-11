@@ -10,5 +10,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ttqp2812fi&theme=merko&date_format=j/n/Y)](https://git.io/streak-stats)
 
-![](./profile-3d-contrib/profile-season.svg)
-
