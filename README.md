@@ -12,4 +12,3 @@
 
 ![](./profile-3d-contrib/profile-season.svg)
 
-![](https://komarev.com/ghpvc/?username=ttqp2812fi&color=blue&label=PROFILE+VIEWS)
