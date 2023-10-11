@@ -1,8 +1,6 @@
 
 ### Terve, Minä olen Quynh Pham 👋 
 
-![](https://komarev.com/ghpvc/?username=ttqp2812fi&color=blue&label=PROFILE+VIEWS)
-
 #### - Skills: 
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,python&theme=light)](https://skills.thijs.gg) 
@@ -13,3 +11,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ttqp2812fi&theme=merko&date_format=j/n/Y)](https://git.io/streak-stats)
 
 ![](./profile-3d-contrib/profile-season.svg)
+
+![](https://komarev.com/ghpvc/?username=ttqp2812fi&color=blue&label=PROFILE+VIEWS)
