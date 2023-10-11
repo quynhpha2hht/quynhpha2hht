@@ -1,7 +1,6 @@
 
 ### Terve, Minä olen Quynh Pham 👋 
 
-![](https://komarev.com/ghpvc/?username=ttqp2812fi&color=brightgreen)
 #### - Skills: 
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,python&theme=light)](https://skills.thijs.gg) 
