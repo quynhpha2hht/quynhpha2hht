@@ -10,3 +10,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ttqp2812fi&theme=merko&date_format=j/n/Y)](https://git.io/streak-stats)
 
+#### - Leetcode - Solving Problems:
+
+![LeetCode Stats](https://leetcode.card.workers.dev/ttquynh-pham?theme=dark&font=source_code_pro&extension=null)
