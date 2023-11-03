@@ -3,7 +3,7 @@
 
 - Worked as Quality Assurance in IT field
 - Studied Optometry/Ophthalmology (my favorite major when I was in my 20s) in Riga, Latvia to challenge my limitation, understand deeply about myself and pursue what I want to do in my life
-- Came back to Vietnam during Covid time, I studied data in Coursera and became a Data Analyst in Marketing 
+- Came back to Vietnam during Covid time, I studied data in Coursera and became a Data Quality Analyst in Marketing 
 - Tested data regularly and investigate the cause of abnormal data
 - Continue learning and working in Automation Testing
 
