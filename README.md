@@ -6,6 +6,7 @@
 - Came back to Vietnam during Covid time, I studied data in Coursera and became a Data Quality Analyst in Marketing 
 - Tested data regularly and investigate the cause of abnormal data
 - Continue learning and working in Automation Testing
+- Future career path - Data Quality Engineer/SDET
 
 #### - Skills: 
 
