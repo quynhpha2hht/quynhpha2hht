@@ -38,7 +38,7 @@
 </div>
 <br/>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/ttquynh-pham?theme=default&font=baloo&extension=null&width=400&height=300)
+![LeetCode Stats](https://leetcode.card.workers.dev/ttquynh-pham?theme=default&font=baloo&extension=null&width=450&height=450)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttqp2812fi&show_icons=true&theme=merko&size_weight=0.3&count_weight=0.3)
 
