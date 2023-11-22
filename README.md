@@ -33,5 +33,5 @@
 #### 3. Stats:
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/ttquynh-pham?theme=dark&font=source_code_pro&extension=null)
-<br>
-![github-contribution-grid-snake](https://github.com/ttqp2812fi/ttqp2812fi/assets/93593303/cec5093e-8dbd-4960-906f-8cd82d71abf9)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttqp2812fi&show_icons=true&theme=merko)
+
