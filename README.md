@@ -9,7 +9,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/qphamtt12/)](https://www.linkedin.com/in/qphamtt12/)
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Manual+Tester;Data+Analytics+Engineer;r%2FData+Quality+Analyst;Automation+Tester)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&random=false&width=435&lines=Manual+Tester;Automation+Tester;Data+Analytics+Engineer;Data+Quality+Engineer)](https://git.io/typing-svg)
 
 #### 1. Facts:
 - Worked as Software Manual Tester before studying medicine in Europe
