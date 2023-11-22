@@ -1,7 +1,7 @@
 
 ### Terve, Minä olen Quynh Pham 👋 
 
-- Worked as Quality Assurance in IT field
+- Worked as Manual Tester in IT field
 - Studied Optometry/Ophthalmology (my favorite major when I was in my 20s) in Europe to challenge my limitation, understand deeply about myself and pursue what I want to do in my life
 - Came back to Vietnam during Covid time, reserved my study result and continue studing data in Coursera
 - Became a Data Quality Analyst
