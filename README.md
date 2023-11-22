@@ -31,7 +31,14 @@
 </div>
 
 #### 3. Stats:
+<div align="left">
+<a href="https://github.com/ttqp2812fi/github-readme-stats">
+  <img align="center" height="200" weight="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttqp2812fi&layout=compact&langs_count=10" />
+</a>
+</div>
+<br/>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/ttquynh-pham?theme=dark&font=source_code_pro&extension=null)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttqp2812fi&show_icons=true&theme=merko)
+![LeetCode Stats](https://leetcode.card.workers.dev/ttquynh-pham?theme=dark&font=source_code_pro&extension=null&weight=100&height=200)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttqp2812fi&show_icons=true&theme=merko&weight=100&height=200)
 
