@@ -16,7 +16,7 @@
 - Became a Data Quality Analyst after self-study 8 months
 - Long-term career ladder - Data Quality Engineer/SDET
 - Passionate about Automation Testing, Data Engineering, Database
-- Spend time to learn and solve Leetcode problems, including SQL, Data Structure & Algorithms 
+- Spend time to learn and solve problems in Leetcode, Hackerrank, sql-ex.ru etc, including SQL, Data Structure & Algorithms 
 
 #### 2. Skills: 
 <div align="left">  
