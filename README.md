@@ -3,10 +3,6 @@
 <img alt="FOLLOWERS" src="https://img.shields.io/github/followers/ttqp2812fi?color=brightgreen&logo=githubb&label=FOLLOWERS"/>
 <br>
 <h2> Terve, Minä olen Quynh Pham 👋 </h2>
-  
-[![GitHub followers](https://img.shields.io/github/followers/ttqp2812fi?label=Follow&style=social)](https://github.com/ttqp2812fi/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-qptt2812-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:qptt2812@gmail.com)](mailto:qptt2812@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/qphamtt12/)](https://www.linkedin.com/in/qphamtt12/)
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&random=false&width=435&lines=Manual+Tester;Automation+Tester;Data+Analytics+Engineer;Data+Quality+Engineer)](https://git.io/typing-svg)
