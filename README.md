@@ -5,16 +5,7 @@
 <h2> Terve, Minä olen Quynh Pham 👋 </h2>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F50&random=false&width=435&lines=Manual+Tester;Automation+Tester;Data+Analytics+Engineer;Data+Quality+Engineer)](https://git.io/typing-svg)
-
-#### 1. Facts:
-- Worked as Software Manual Tester before studying medicine in Europe
-- Became a Data Quality Analyst after self-study 8 months
-- Long-term career ladder - Data Quality Engineer/SDET
-- Passionate about Automation Testing, Data Engineering, Database
-- Spend spare time to learn new technologies, do pet projects & solve problems in Leetcode, Hackerrank, sql-ex.ru etc, including SQL, Data Structure & Algorithms 
-
-#### 2. Skills: 
+#### 1. Skills: 
 <div align="left">  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -26,7 +17,6 @@
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 </div>
 
-#### 3. Stats:
 <div align="left">
 <a href="https://github.com/ttqp2812fi/github-readme-stats">
   <img align="center" height="200" weight="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttqp2812fi&layout=compact&langs_count=10" />
