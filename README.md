@@ -1,6 +1,6 @@
 ### Terve, minä olen Quynh Pham
 
-- Madly desire the combination of Stack Quality Engineer and Data Engineer.
+- A mix of Quality Engineer & Data Engineer.
 - Study and practice Data Structure and Algorithms for interviewing.
 - Love Europe.
 - I had been in Europe for studying medicine.
