@@ -1,6 +1,6 @@
 ### Terve, minä olen Quynh Pham
 
-- A combination of Software Quality Engineer & Data Engineer.
+- A combination of Software Quality Engineer & Data Analytics Engineer.
 - Study regularly.
 - Background: medicine, software quality control, data analytics engineer.
 
