@@ -11,4 +11,6 @@ jobs:
         name: Update this repo's README
         runs-on: ubuntu-latest
         steps:
-        - uses: ryuanerin/top-languages-readme@master
+        - uses: quynhpha2hht/top-languages-readme@master
+          with:
+            GH_TOKEN: ${{ secrets.GH_TOKEN }}
