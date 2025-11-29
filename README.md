@@ -8,3 +8,6 @@
 ### Fun Statistics:
 
 <img src="https://raw.githubusercontent.com/quynhpha2hht/quynhpha2hht/main/profile-3d-contrib/profile-night-green.svg" width="660" alt="Profile 3D"/>
+
+<!--START_SECTION:top_language-->
+<!--END_SECTION:top_language-->
