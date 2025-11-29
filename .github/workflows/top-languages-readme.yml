@@ -11,6 +11,6 @@ jobs:
         name: Update this repo's README
         runs-on: ubuntu-latest
         steps:
-        - uses: quynhpha2hht
+        - uses: quynhpha2hht/top-languages-readme@main
           with:
             GH_TOKEN: ${{ secrets.GH_TOKEN }}
