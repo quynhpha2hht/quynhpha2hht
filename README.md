@@ -7,6 +7,4 @@
 
 ### Fun Statistics:
 
-
-
-[![Quynh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=quynhpha2hht&theme=merko)](https://github.com/quynhpha2hht/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/quynhpha2hht/quynhpha2hht/main/profile-3d-contrib/profile-night-green.svg" width="660" alt="Profile 3D"/>
